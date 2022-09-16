@@ -55,7 +55,7 @@ libnacl==1.8.0
     # via -r requirements/windows.txt
 lxml==4.6.3
     # via -r requirements/windows.txt
-mako==1.1.4
+mako==1.2.2
     # via -r requirements/windows.txt
 markupsafe==1.1.1
     # via
