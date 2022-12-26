@@ -398,7 +398,7 @@ websocket-client==0.40.0
     #   kubernetes
 werkzeug==0.15.6
     # via moto
-wheel==0.36.2
+wheel==0.38.1
     # via -r requirements/windows.txt
 wmi==1.5.1
     # via -r requirements/windows.txt
