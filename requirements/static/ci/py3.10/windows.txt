@@ -73,7 +73,7 @@ colorama==0.4.1
     # via pytest
 contextvars==2.4
     # via -r requirements/static/pkg/py3.10/windows.txt
-cryptography==3.4.7
+cryptography==39.0.1
     # via
     #   -r requirements/static/pkg/py3.10/windows.txt
     #   moto
