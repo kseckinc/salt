@@ -859,7 +859,7 @@ websocket-client==0.40.0
     # via
     #   docker
     #   kubernetes
-werkzeug==0.15.6
+werkzeug==2.2.3
     # via moto
 xmltodict==0.12.0
     # via moto
