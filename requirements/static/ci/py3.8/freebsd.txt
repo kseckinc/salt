@@ -886,7 +886,7 @@ websocket-client==0.40.0
     # via
     #   docker
     #   kubernetes
-werkzeug==0.15.6
+werkzeug==2.2.3
     # via moto
 wrapt==1.11.1
     # via aws-xray-sdk
